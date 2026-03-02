@@ -20,7 +20,7 @@ Projeto criado com foco no aprimoramento da lógica de programação e prática 
 ## ▶️ Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/Lucas0liveiraT/Cadastr-e-Estatistica-de-Produtos.git
    ```
 2. Abra o projeto em sua IDE (Eclipse, IntelliJ ou VS Code).
 3. Execute a classe `CadastroEstatisticaDeProdutos`.
